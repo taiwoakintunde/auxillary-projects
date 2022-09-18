@@ -1,1 +1,2 @@
-# onboarding users
+# AUX PROJECT 1: SHELL SCRIPTING
+
